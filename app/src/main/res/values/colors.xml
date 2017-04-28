@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#252525</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#f49500</color>
+    <color name="colorBackground">#303030</color>
+    <color name="trans_black">#3e000000</color>
+    <color name="color_White">#ffffff</color>
+    <color name="trans_color_White">#9affffff</color>
+    <color name="color_cream">#f1d1cfce</color>
+    <color name="color_dark_cream">#d1cfce</color>
+    <color name="color_tab_unselected">#1d1d1d</color>
+    <color name="color_tab_selected">#181818</color>
+    <color name="light_grey">#bababa</color>
+    <color name="bg_light_grey">#e6e3e3</color>
+    <color name="dark_grey">#868686</color>
+    <color name="light_green">#39b349</color>
+    <color name="light_blue">#06c0ad</color>
+
+    <color name="dark_blue">#0f5aea</color>
+    <color name="dark_orange">#fa6615</color>
+    <color name="transcolorPrimary">#d00b1d35</color>
+    <color name="trans_more_black">#aa000000</color>
+    <color name="my_spinner_text_color">#000000</color>
+    <color name="more_dark_blue">#2279f2</color>
+    <color name="greenColor">#00a998</color>
+
+
+
+    <color name="login_baackground_color">#1E1E1E</color>
+    <color name="login_gray_color">#595959</color>
+    <color name="orange_color">#f49500</color>
+    <color name="green_color">#1a7133</color>
+    <color name="black_color">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="stats_black">#151414</color>
+    <color name="list_divider_color">#3E3E3E</color>
+    <color name="light_gray_color">#b0b0b0</color>
+    <color name="red">#c40901</color>
+    <color name="section">#ebeff3</color>
+    <color name="sectiongray">#D4D4D4</color>
+
+
+
+
+</resources>
